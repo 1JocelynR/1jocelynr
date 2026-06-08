@@ -9,7 +9,7 @@ Software Engineer | Scrum Master | Technical Co-Founder
 - 🎓 B.S. Computer Engineering @ Florida International University
 - 🔧 Creator of Freya
 - 🛠️ Former Software Engineering Fellow @ Codesmith
-- 🌎 Based in Miami, FL
+- 🌎 Based in The United States 
 
 ## Tech Stack
 
