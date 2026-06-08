@@ -43,8 +43,9 @@ Software Engineer passionate about learning all things security.
 
 ## Open To
 
-- Software Engineering Internships
-- Security Engineering Internships
+- Software Engineering Roles
+- Security Engineering Roles
+- Site Reliability Engineering/DevOps Engineering Roles
 - AI Security Research Opportunities
 
 ## Tech Stack
