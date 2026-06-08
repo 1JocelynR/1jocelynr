@@ -31,7 +31,7 @@
 - Explored adversarial ML techniques and cybersecurity automation strategies
 
 
-## Currently Learning
+## Currently Learning 
 
 - Application Security
 - AI Security
