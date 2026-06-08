@@ -2,8 +2,6 @@
 
 Software Engineer passionate about learning all things security.
 
-![Jocelyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1JocelynR&show_icons=true&theme=dark)
-
 ## About Me
 
 - 🎓 B.S. Candidate @ Florida International University '28 | Major: Computer Engineering with a focus in AI Cyber Defense
