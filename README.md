@@ -10,6 +10,28 @@ Software Engineer passionate about learning all things security.
 - 🌎 Based in the United States
 - 🇵🇷 Proud Boricua from NYC 🗽
 
+### 🔐 Freya
+- Built with Python, FastAPI, React, Docker, and GitHub Actions
+- Integrates security scanners such as Semgrep, Trivy, and Gitleaks
+- Uses AI/LLM support to help developers understand security findings
+
+### 🧠 AI Security Research
+- Exploring model security, backdoor attacks, and detection methods
+- Interested in secure AI systems, adversarial ML, and cybersecurity automation
+
+## Currently Learning
+
+- Application Security
+- AI Security
+- Secure Software Development
+- Cloud Security
+- DevSecOps
+
+## Open To
+
+- Software Engineering Internships
+- Security Engineering Internships
+
 ## Tech Stack
 
 ### Language & Runtime
