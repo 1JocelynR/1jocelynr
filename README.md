@@ -7,7 +7,7 @@ Software Engineer passionate about learning all things security.
 
 - 🎓 B.S. Candidate @ Florida International University '28 | Major: Computer Engineering with a focus in AI Cyber Defense
 - 🔧 Creator of Freya 
-- 🗽 Based in NYC | 🇵🇷 Proud Boricua
+- 🗽 Based in NYC | 🇵🇷 Boricua
 - 
 
 
