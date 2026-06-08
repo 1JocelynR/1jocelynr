@@ -4,7 +4,7 @@ Software Engineer passionate about learning all things security.
 
 ## About Me
 
-- 🎓 B.S. Computer Engineering @ Florida International University '28
+- 🎓 B.S. Candidate @ Florida International University '28 | Major: Computer Engineering with a focus in AI Cyber Defense
 - 🔧 Creator of Freya
 - 🛠️ Former Software Engineering Fellow @ Codesmith
 - 🌎 Based in the United States
