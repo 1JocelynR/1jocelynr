@@ -1,14 +1,14 @@
-# Hi, I'm Jocelyn 👋
+
+# Hola, I'm Jocelyn. Engineer & Security Enthusiast. 
 
 Software Engineer passionate about learning all things security.
 
 ## About Me
 
 - 🎓 B.S. Candidate @ Florida International University '28 | Major: Computer Engineering with a focus in AI Cyber Defense
-- 🔧 Creator of Freya
-- 🛠️ Former Software Engineering Fellow @ Codesmith
-- 🌎 Based in the United States
-- 🇵🇷 Proud Boricua from NYC 🗽
+- 🔧 Creator of Freya 
+- 🗽 Based in NYC | 🇵🇷 Proud Boricua
+- 
 
 
 ## What I'm Working On
