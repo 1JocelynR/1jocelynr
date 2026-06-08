@@ -45,5 +45,3 @@ Software Engineer | Scrum Master | Technical Co-Founder
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/YOUR-LINK)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/1JocelynR)
 ```
-
-Just swap out the LinkedIn URL and you're good to go. Want a GitHub stats card added too?
