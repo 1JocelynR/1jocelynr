@@ -1,5 +1,5 @@
 
-# Hola, I'm Jocelyn. Engineer & Security Enthusiast. 
+# Hola, I'm Jocelyn. AI Engineer & Security Enthusiast. 
 
 Software Engineer passionate about learning all things security.
 
