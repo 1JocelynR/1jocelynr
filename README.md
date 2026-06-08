@@ -13,7 +13,7 @@ Software Engineer passionate about learning all things security.
 
 ## What I'm Working On
 
-🔧 ***Projects**
+🔧 **Projects**
 - Freya - An AI powered security tool built for independent developers that automatically scans code for vulnerabilities and explains the results in plain English, so developers know exactly what to fix and why.
 
  🎤 **Tech Talks**
