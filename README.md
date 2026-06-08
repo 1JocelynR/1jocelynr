@@ -15,7 +15,7 @@
 - Yuiza - A Security Tool 
 
  🎤 **Tech Talks**
- - "The Three Scanners Every Developer Should Know: Semgrep, Trivy, and Gitleaks"
+ - "The Three Security Scanners Every Developer Should Know: Semgrep, Trivy, and Gitleaks"
    - Sharing insights on developer security tools, vulnerability scanning, and making security accessible for independent developers
    
 
