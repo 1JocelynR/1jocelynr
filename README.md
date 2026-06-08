@@ -13,35 +13,21 @@ Software Engineer | Scrum Master | Technical Co-Founder
 
 ## Tech Stack
 
-**Language & Runtime**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+**Language & Runtime:** Python · JavaScript · Docker
 
-**Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+**Frontend:** React · Node.js
 
-**Backend**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+**Backend:** FastAPI
 
-**Security Scanners**
-![Semgrep](https://img.shields.io/badge/-Semgrep-4B9CD3?logoColor=white&style=flat)
-![Trivy](https://img.shields.io/badge/-Trivy-1904DA?logoColor=white&style=flat)
-![Gitleaks](https://img.shields.io/badge/-Gitleaks-FF6B6B?logoColor=white&style=flat)
+**Security Scanners:** Semgrep · Trivy · Gitleaks
 
-**AI / LLM**
-![Claude](https://img.shields.io/badge/-Claude%20Sonnet-D97757?logoColor=white&style=flat)
-![Anthropic](https://img.shields.io/badge/-Anthropic-191919?logoColor=white&style=flat)
+**AI / LLM:** Claude Sonnet · Anthropic SDK
 
-**CI/CD & Integration**
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
-![PyGitHub](https://img.shields.io/badge/-PyGitHub-181717?logo=github&logoColor=white&style=flat)
+**CI/CD & Integration:** GitHub Actions · PyGitHub
 
-**Testing**
-![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white&style=flat)
+**Testing:** pytest
 
-## Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/YOUR-LINK)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/1JocelynR)
-```
+
+
+
+
