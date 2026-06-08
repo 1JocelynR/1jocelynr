@@ -2,6 +2,8 @@
 
 Software Engineer passionate about learning all things security.
 
+![Jocelyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1JocelynR&show_icons=true&theme=dark)
+
 ## About Me
 
 - 🎓 B.S. Candidate @ Florida International University '28 | Major: Computer Engineering with a focus in AI Cyber Defense
@@ -14,18 +16,19 @@ Software Engineer passionate about learning all things security.
 ## What I'm Building
 
 🔧 **Freya**  
-An AI-powered security-focused developer tool that helps identify risks, automate scanning workflows, and support secure software development.
+An AI powered security tool built for independent developers that automatically scans code for vulnerabilities and explains the results in plain English, so developers know exactly what to fix and why.
 
 ## Featured Projects
 
 ### 🔐 Freya
-- Built with Python, FastAPI, React, Docker, and GitHub Actions
+- Built with Python, Docker, and GitHub Actions
 - Integrates security scanners such as Semgrep, Trivy, and Gitleaks
-- Uses AI/LLM support to help developers understand security findings
+- Powered by Claude Sonnet via the Anthropic API
 
 ### 🧠 AI Security Research
-- Exploring model security, backdoor attacks, and detection methods
-- Interested in secure AI systems, adversarial ML, and cybersecurity automation
+- Conducted research on model security, backdoor attacks, and detection methods
+- Explored adversarial ML techniques and cybersecurity automation strategies
+
 
 ## Currently Learning
 
