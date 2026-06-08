@@ -40,7 +40,7 @@ An AI-powered security-focused developer tool that helps identify risks, automat
 - Software Engineering Internships
 - Security Engineering Internships
 - AI Security Research Opportunities
-- Technical Co-Founder Opportunities
+
 ## Tech Stack
 
 ### Language & Runtime
@@ -80,6 +80,6 @@ An AI-powered security-focused developer tool that helps identify risks, automat
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](YOUR_GITHUB_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/1jocelynr/))
+
 
