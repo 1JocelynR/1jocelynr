@@ -8,7 +8,7 @@ Software Engineer passionate about learning all things security.
 - 🔧 Creator of Freya
 - 🛠️ Former Software Engineering Fellow @ Codesmith
 - 🌎 Based in the United States
-- - 🇵🇷 Proud Boricua
+- 🇵🇷 Proud Boricua from NYC 🗽
 
 ## Tech Stack
 
