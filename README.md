@@ -11,10 +11,15 @@ Software Engineer passionate about learning all things security.
 - 🇵🇷 Proud Boricua from NYC 🗽
 
 
-## What I'm Building
+## What I'm Working On
 
 🔧 **Freya**  
 An AI powered security tool built for independent developers that automatically scans code for vulnerabilities and explains the results in plain English, so developers know exactly what to fix and why.
+
+ 🎤**Tech Talks**
+ - "The Three Scanners Every Developer Should Know: Semgrep, Trivy, and Gitleaks"
+   - Sharing insights on developer security tools, vulnerability scanning, and making security accessible for independent developers
+   
 
 ## Featured Projects
 
