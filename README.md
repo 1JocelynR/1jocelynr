@@ -1,6 +1,6 @@
 # Hi, I'm Jocelyn 👋
 
-Software Engineer | Scrum Master | Technical Co-Founder
+Software Engineer passionate about learning all things security.
 
 ## About Me
 
@@ -8,6 +8,7 @@ Software Engineer | Scrum Master | Technical Co-Founder
 - 🔧 Creator of Freya
 - 🛠️ Former Software Engineering Fellow @ Codesmith
 - 🌎 Based in the United States
+- - 🇵🇷 Proud Boricua
 
 ## Tech Stack
 
