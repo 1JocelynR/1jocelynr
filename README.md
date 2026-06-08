@@ -1,8 +1,6 @@
 
 # Hola, I'm Jocelyn. AI Engineer & Security Enthusiast. 
 
-Software Engineer passionate about learning all things security.
-
 ## About Me
 - 🗽 Based in NYC | 🇵🇷 Bronx Bred Boricua
 - 🎓 B.S. Candidate @ Florida International University '28 | Major: Computer Engineering with a focus in AI Cyber Defense
