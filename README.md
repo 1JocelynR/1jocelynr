@@ -10,6 +10,14 @@ Software Engineer passionate about learning all things security.
 - 🌎 Based in the United States
 - 🇵🇷 Proud Boricua from NYC 🗽
 
+
+## What I'm Building
+
+🔧 **Freya**  
+An AI-powered security-focused developer tool that helps identify risks, automate scanning workflows, and support secure software development.
+
+## Featured Projects
+
 ### 🔐 Freya
 - Built with Python, FastAPI, React, Docker, and GitHub Actions
 - Integrates security scanners such as Semgrep, Trivy, and Gitleaks
@@ -31,7 +39,8 @@ Software Engineer passionate about learning all things security.
 
 - Software Engineering Internships
 - Security Engineering Internships
-
+- AI Security Research Opportunities
+- Technical Co-Founder Opportunities
 ## Tech Stack
 
 ### Language & Runtime
