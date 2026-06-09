@@ -1,5 +1,5 @@
 
-# Hola, I'm Jocelyn. AI Engineer & Security Enthusiast. 
+# Hola, I'm Jocelyn. 
 
 ## About Me
 - 🗽 Based in NYC | 🇵🇷 Bronx Bred Boricua
