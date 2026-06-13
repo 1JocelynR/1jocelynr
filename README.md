@@ -15,7 +15,7 @@
 
 🔧 **Projects**
 - Freya - An AI powered security tool built for independent developers that automatically scans code for vulnerabilities and explains the results in plain English, so developers know exactly what to fix and why.
-- Yuiza - A Security Tool 
+
 
  🎤 **Tech Talks**
  - "The Three Security Scanners Every Developer Should Know: Semgrep, Trivy, and Gitleaks"
