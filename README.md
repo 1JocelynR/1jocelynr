@@ -1,5 +1,9 @@
+# Welcome to my Github Profile
 
-# Hola, I'm Jocelyn. 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1jocelynr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1jocelynr&layout=compact&theme=tokyonight" />
+</div>
 
 ## About Me
 - 🗽 Based in NYC | 🇵🇷 Bronx Bred Boricua
@@ -46,41 +50,9 @@
 - Site Reliability Engineering/DevOps Engineering Roles
 - AI Security Research Opportunities
 
-## Tech Stack
 
-### Language & Runtime
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Semgrep](https://img.shields.io/badge/Semgrep-1B2D55?style=flat&logo=semgrep&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aqua&logoColor=white) ![Gitleaks](https://img.shields.io/badge/Gitleaks-E05C2C?style=flat&logo=git&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_Sonnet-D4A017?style=flat&logo=anthropic&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
-
-### Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
-
-### Security Scanners
-
-![Semgrep](https://img.shields.io/badge/Semgrep-4B9CD3?logoColor=white&style=flat)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?logoColor=white&style=flat)
-![Gitleaks](https://img.shields.io/badge/Gitleaks-FF6B6B?logo=git&logoColor=white&style=flat)
-
-### AI / LLM
-
-![Claude](https://img.shields.io/badge/Claude%20Sonnet-D97757?logo=anthropic&logoColor=white&style=flat)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=white&style=flat)
-
-### CI/CD & Integration
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
-![PyGithub](https://img.shields.io/badge/PyGithub-181717?logo=github&logoColor=white&style=flat)
-
-### Testing
-
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white&style=flat)
 
 
