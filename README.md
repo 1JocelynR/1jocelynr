@@ -8,8 +8,7 @@
 ## About Me
 - 🗽 Based in NYC | 🇵🇷 Bronx Bred Boricua
 - 🎓 B.S. Candidate @ Florida International University '28 | Major: Computer Engineering with a focus in AI Cyber Defense
-- 🔧 Creator of Freya & Yuiza 
-- 📚 AI Security Student Researcher at FIU VICOR Lab
+- 🔧 Creator of Freya & Yuiza | 📚 AI Security Student Researcher at FIU VICOR Lab
 - 🤝 Let's Connect & Collaborate --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/1jocelynr/)
 
 ## What I'm Working On
