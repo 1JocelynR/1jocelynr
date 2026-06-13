@@ -1,4 +1,4 @@
-# Welcome to my Github Profile
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Software+Engineer+%F0%9F%9B%A1%EF%B8%8F;AI+Builder+%F0%9F%A4%96;Zero+Trust+Everything+%F0%9F%94%90)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1jocelynr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -40,16 +40,9 @@
 
 ## Currently Learning 
 
-- Application Security
-- AI Security
-- Secure Software Development
-- Cloud Security
-- DevSecOps
+Application Security, AI Security, Secure Software Development, DevSecOps
 
 ## Open To
 
-- Software Engineering Roles
-- Security Engineering Roles
-- Site Reliability Engineering/DevOps Engineering Roles
-- AI Security Research Opportunities
+Software Engineering Roles, Security Engineering Roles, Site Reliability Engineering/DevOps Engineering Roles, AI Security Research Opportunities
 
